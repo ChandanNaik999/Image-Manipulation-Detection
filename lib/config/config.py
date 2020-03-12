@@ -32,7 +32,7 @@ tf.app.flags.DEFINE_integer('step_size', 30000, "Step size for reducing the lear
 tf.app.flags.DEFINE_integer('display', 10, "Iteration intervals for showing the loss during training, on command line interface")
 
 tf.app.flags.DEFINE_string('initializer', "truncated", "Network initialization parameters")
-tf.app.flags.DEFINE_string('pretrained_model', "./data/imagenet_weights/vgg16.ckpt", "Pretrained network weights")
+tf.app.flags.DEFINE_string('pretrained_model', "content/Image-Manipulation-Detection/data/imagenet_weights/vgg16.ckpt", "Pretrained network weights")
 
 tf.app.flags.DEFINE_boolean('bias_decay', False, "Whether to have weight decay on bias as well")
 tf.app.flags.DEFINE_boolean('double_bias', True, "Whether to double the learning rate for bias")
