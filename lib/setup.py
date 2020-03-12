@@ -114,7 +114,7 @@ class custom_build_ext(build_ext):
 ext_modules = [
     Extension(
         "utils.cython_bbox",
-        ["/content/Image-Manipulation-Detection/lib/utils/bbox.pyx"],
+        ["utils/bbox.pyx"],
         extra_compile_args={'gcc': ["-Wno-cpp", "-Wno-unused-function"]},
         include_dirs=[numpy_include]
     ),
