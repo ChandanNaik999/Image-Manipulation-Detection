@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009533.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>311125197</flickrid>
+	</source>
+	<owner>
+		<flickrid>Garlyn</flickrid>
+		<name>Gary and Lyn Ginsberg</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>334</xmin><ymin>86</ymin><xmax>450</xmax><ymax>343</ymax></bndbox></object></annotation>

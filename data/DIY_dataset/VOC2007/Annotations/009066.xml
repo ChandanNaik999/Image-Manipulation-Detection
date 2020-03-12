@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009066.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>340867962</flickrid>
+	</source>
+	<owner>
+		<flickrid>Cowtools</flickrid>
+		<name>Beverly Vealach</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>171</xmin><ymin>38</ymin><xmax>216</xmax><ymax>87</ymax></bndbox></object></annotation>

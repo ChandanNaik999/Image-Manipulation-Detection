@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009238.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>300847936</flickrid>
+	</source>
+	<owner>
+		<flickrid>Jen Templeton</flickrid>
+		<name>Jennifer Templeton</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>241</xmin><ymin>52</ymin><xmax>436</xmax><ymax>266</ymax></bndbox></object></annotation>

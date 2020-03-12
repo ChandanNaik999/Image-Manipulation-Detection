@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006501.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>335042471</flickrid>
+	</source>
+	<owner>
+		<flickrid>Let's Take Over</flickrid>
+		<name>David Jackmanson</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>211</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>209</xmin><ymin>15</ymin><xmax>324</xmax><ymax>158</ymax></bndbox></object></annotation>

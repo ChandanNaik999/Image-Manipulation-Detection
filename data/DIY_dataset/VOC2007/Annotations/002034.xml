@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002034.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>315540860</flickrid>
+	</source>
+	<owner>
+		<flickrid>Huro Kitty</flickrid>
+		<name>Michelle Chin</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>237</xmin><ymin>136</ymin><xmax>360</xmax><ymax>267</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007194.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337216837</flickrid>
+	</source>
+	<owner>
+		<flickrid>dirk32787</flickrid>
+		<name>Derek Doneen</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>400</xmin><ymin>146</ymin><xmax>465</xmax><ymax>207</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007897.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>335061038</flickrid>
+	</source>
+	<owner>
+		<flickrid>Damien_Toman</flickrid>
+		<name>Damien Toman</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>91</xmin><ymin>112</ymin><xmax>207</xmax><ymax>215</ymax></bndbox></object></annotation>

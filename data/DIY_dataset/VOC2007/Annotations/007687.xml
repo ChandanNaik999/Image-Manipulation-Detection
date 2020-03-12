@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007687.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>333610528</flickrid>
+	</source>
+	<owner>
+		<flickrid>SLeeMIT05</flickrid>
+		<name>Sherman Lee</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>346</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>236</xmin><ymin>84</ymin><xmax>446</xmax><ymax>215</ymax></bndbox></object></annotation>

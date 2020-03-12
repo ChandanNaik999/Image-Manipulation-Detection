@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003149.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>326719248</flickrid>
+	</source>
+	<owner>
+		<flickrid>Teenager In A Box</flickrid>
+		<name>Positive Ana</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>15</xmin><ymin>25</ymin><xmax>167</xmax><ymax>364</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002371.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>322709857</flickrid>
+	</source>
+	<owner>
+		<flickrid>SF buckaroo</flickrid>
+		<name>SF Buckaroo</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>197</xmin><ymin>170</ymin><xmax>409</xmax><ymax>283</ymax></bndbox></object></annotation>

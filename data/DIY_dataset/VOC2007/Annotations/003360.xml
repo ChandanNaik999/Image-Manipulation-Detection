@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003360.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339373909</flickrid>
+	</source>
+	<owner>
+		<flickrid>Corgi_T</flickrid>
+		<name>Tricia Lewis</name>
+	</owner>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>52</xmin><ymin>77</ymin><xmax>106</xmax><ymax>115</ymax></bndbox></object></annotation>

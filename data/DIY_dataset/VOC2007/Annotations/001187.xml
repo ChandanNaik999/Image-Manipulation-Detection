@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001187.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>292463610</flickrid>
+	</source>
+	<owner>
+		<flickrid>enelojial</flickrid>
+		<name>Jolene Lai</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>205</xmin><ymin>358</ymin><xmax>327</xmax><ymax>474</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007810.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>332091075</flickrid>
+	</source>
+	<owner>
+		<flickrid>Carrie Schmitz</flickrid>
+		<name>Carrie Schmitz</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>221</xmin><ymin>161</ymin><xmax>307</xmax><ymax>260</ymax></bndbox></object></annotation>

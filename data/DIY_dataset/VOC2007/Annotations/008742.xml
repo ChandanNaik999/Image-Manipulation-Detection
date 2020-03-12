@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008742.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>340210876</flickrid>
+	</source>
+	<owner>
+		<flickrid>Miss_Colleen</flickrid>
+		<name>Colleen Morgan</name>
+	</owner>
+	<size>
+		<width>334</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>111</xmin><ymin>290</ymin><xmax>260</xmax><ymax>407</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003506.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>254487117</flickrid>
+	</source>
+	<owner>
+		<flickrid>Bird in the Hand</flickrid>
+		<name>Lisa Congdon</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>289</xmin><ymin>70</ymin><xmax>378</xmax><ymax>279</ymax></bndbox></object></annotation>

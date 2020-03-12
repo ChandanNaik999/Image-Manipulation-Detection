@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004528.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>268617865</flickrid>
+	</source>
+	<owner>
+		<flickrid>nyctreeman</flickrid>
+		<name>Len Doe</name>
+	</owner>
+	<size>
+		<width>310</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>137</xmin><ymin>137</ymin><xmax>222</xmax><ymax>265</ymax></bndbox></object></annotation>

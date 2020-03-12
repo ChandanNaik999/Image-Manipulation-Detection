@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004470.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>251321115</flickrid>
+	</source>
+	<owner>
+		<flickrid>alisdair</flickrid>
+		<name>Alisdair McDiarmid</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>203</xmin><ymin>68</ymin><xmax>256</xmax><ymax>138</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009458.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>333244721</flickrid>
+	</source>
+	<owner>
+		<flickrid>theprimeoflife</flickrid>
+		<name>Niamh C</name>
+	</owner>
+	<size>
+		<width>473</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>230</xmin><ymin>149</ymin><xmax>297</xmax><ymax>266</ymax></bndbox></object></annotation>

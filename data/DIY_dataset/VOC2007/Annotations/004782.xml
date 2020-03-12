@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004782.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>321495969</flickrid>
+	</source>
+	<owner>
+		<flickrid>Matoken</flickrid>
+		<name>Kenichiro MATOHARA</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>27</xmin><ymin>57</ymin><xmax>109</xmax><ymax>172</ymax></bndbox></object></annotation>

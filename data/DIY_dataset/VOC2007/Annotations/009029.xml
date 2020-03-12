@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009029.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>140826716</flickrid>
+	</source>
+	<owner>
+		<flickrid>dislocatedgerbil</flickrid>
+		<name>Harrison Reid</name>
+	</owner>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>185</xmin><ymin>252</ymin><xmax>265</xmax><ymax>299</ymax></bndbox></object></annotation>

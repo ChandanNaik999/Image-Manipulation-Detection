@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001279.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>341882833</flickrid>
+	</source>
+	<owner>
+		<flickrid>I am a Librarian!</flickrid>
+		<name>Cynthia Wilson</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>173</xmin><ymin>359</ymin><xmax>222</xmax><ymax>460</ymax></bndbox></object></annotation>

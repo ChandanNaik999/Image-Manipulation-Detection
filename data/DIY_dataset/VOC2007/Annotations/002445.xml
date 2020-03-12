@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002445.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>341840288</flickrid>
+	</source>
+	<owner>
+		<flickrid>rubistyle</flickrid>
+		<name>Amy French</name>
+	</owner>
+	<size>
+		<width>360</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>31</xmin><ymin>194</ymin><xmax>61</xmax><ymax>245</ymax></bndbox></object></annotation>

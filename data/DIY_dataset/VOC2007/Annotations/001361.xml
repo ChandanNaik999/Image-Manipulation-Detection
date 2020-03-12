@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001361.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>36782335</flickrid>
+	</source>
+	<owner>
+		<flickrid>gundy</flickrid>
+		<name>David Gundersen</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>331</xmin><ymin>156</ymin><xmax>384</xmax><ymax>324</ymax></bndbox></object></annotation>

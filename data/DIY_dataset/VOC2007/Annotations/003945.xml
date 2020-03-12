@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003945.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>300815203</flickrid>
+	</source>
+	<owner>
+		<flickrid>gazraa</flickrid>
+		<name>Garry Finch</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>182</xmin><ymin>26</ymin><xmax>414</xmax><ymax>239</ymax></bndbox></object></annotation>

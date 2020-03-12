@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008139.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338548880</flickrid>
+	</source>
+	<owner>
+		<flickrid>Spotty Logic</flickrid>
+		<name>Jacob</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>246</xmin><ymin>128</ymin><xmax>324</xmax><ymax>162</ymax></bndbox></object></annotation>

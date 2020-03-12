@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006995.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>290918108</flickrid>
+	</source>
+	<owner>
+		<flickrid>violet913</flickrid>
+		<name>Terry Bauerle Cooper</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>315</xmin><ymin>129</ymin><xmax>414</xmax><ymax>222</ymax></bndbox></object></annotation>

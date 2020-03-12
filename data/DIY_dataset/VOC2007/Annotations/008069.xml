@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008069.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>200741195</flickrid>
+	</source>
+	<owner>
+		<flickrid>Thadeus Maximus</flickrid>
+		<name>Thadeus Maximus</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>49</xmin><ymin>134</ymin><xmax>243</xmax><ymax>322</ymax></bndbox></object></annotation>

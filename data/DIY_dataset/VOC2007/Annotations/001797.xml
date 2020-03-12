@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001797.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>329549733</flickrid>
+	</source>
+	<owner>
+		<flickrid>Greg Bizzle From Saint Louis</flickrid>
+		<name>Greg Bizzle</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>75</xmin><ymin>145</ymin><xmax>291</xmax><ymax>263</ymax></bndbox></object></annotation>

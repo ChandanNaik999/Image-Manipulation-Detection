@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003205.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>290817951</flickrid>
+	</source>
+	<owner>
+		<flickrid>protocol7</flickrid>
+		<name>Niklas Gustavsson</name>
+	</owner>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>70</xmin><ymin>208</ymin><xmax>258</xmax><ymax>422</ymax></bndbox></object></annotation>

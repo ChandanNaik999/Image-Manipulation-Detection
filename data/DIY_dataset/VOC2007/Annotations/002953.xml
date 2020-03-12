@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002953.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>150560686</flickrid>
+	</source>
+	<owner>
+		<flickrid>GenkiGenki</flickrid>
+		<name>Christopher Vu</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>311</xmin><ymin>333</ymin><xmax>356</xmax><ymax>369</ymax></bndbox></object></annotation>

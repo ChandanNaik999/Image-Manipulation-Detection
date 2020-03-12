@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007336.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>328376625</flickrid>
+	</source>
+	<owner>
+		<flickrid>~dahlia_daffodil~</flickrid>
+		<name>Dahlia Ramly</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>253</xmin><ymin>293</ymin><xmax>302</xmax><ymax>460</ymax></bndbox></object></annotation>

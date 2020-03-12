@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003028.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>309597882</flickrid>
+	</source>
+	<owner>
+		<flickrid>Lin.y.c</flickrid>
+		<name>Yu-Chung Lin</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>61</xmin><ymin>127</ymin><xmax>184</xmax><ymax>309</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002180.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338452102</flickrid>
+	</source>
+	<owner>
+		<flickrid>adplusplus</flickrid>
+		<name>Adalbert Duda</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>346</xmin><ymin>125</ymin><xmax>366</xmax><ymax>187</ymax></bndbox></object></annotation>

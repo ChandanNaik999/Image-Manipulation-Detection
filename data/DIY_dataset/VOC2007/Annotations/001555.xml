@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001555.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339795570</flickrid>
+	</source>
+	<owner>
+		<flickrid>doramg</flickrid>
+		<name>Dora-Marie Goulet</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>224</xmin><ymin>165</ymin><xmax>382</xmax><ymax>350</ymax></bndbox></object></annotation>

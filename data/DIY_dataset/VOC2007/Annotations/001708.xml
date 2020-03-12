@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001708.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>314255131</flickrid>
+	</source>
+	<owner>
+		<flickrid>mario ferioli</flickrid>
+		<name>Mario Ferioli</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>161</xmin><ymin>210</ymin><xmax>255</xmax><ymax>368</ymax></bndbox></object></annotation>

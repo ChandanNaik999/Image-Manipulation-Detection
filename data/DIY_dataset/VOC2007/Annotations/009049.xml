@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009049.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>320419409</flickrid>
+	</source>
+	<owner>
+		<flickrid>r6evo</flickrid>
+		<name>Chris Evans</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>295</xmin><ymin>55</ymin><xmax>454</xmax><ymax>340</ymax></bndbox></object></annotation>

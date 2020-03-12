@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001125.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>297644549</flickrid>
+	</source>
+	<owner>
+		<flickrid>met70</flickrid>
+		<name>Matteo Fini</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>28</xmin><ymin>239</ymin><xmax>106</xmax><ymax>324</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002361.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>150871656</flickrid>
+	</source>
+	<owner>
+		<flickrid>Arty Curtis</flickrid>
+		<name>Curtis Robertson</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>220</xmin><ymin>235</ymin><xmax>280</xmax><ymax>394</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008982.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>309532586</flickrid>
+	</source>
+	<owner>
+		<flickrid>raheel</flickrid>
+		<name>Raheel Ahmad</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>142</xmin><ymin>70</ymin><xmax>292</xmax><ymax>283</ymax></bndbox></object></annotation>

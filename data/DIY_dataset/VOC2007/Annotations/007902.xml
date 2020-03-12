@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007902.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>312857808</flickrid>
+	</source>
+	<owner>
+		<flickrid>mosaik 7</flickrid>
+		<name>Christian Niedermayr</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>82</xmin><ymin>64</ymin><xmax>213</xmax><ymax>272</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005236.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>309462042</flickrid>
+	</source>
+	<owner>
+		<flickrid>Miles Koch Miller</flickrid>
+		<name>Miles Miller</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>12</xmin><ymin>31</ymin><xmax>125</xmax><ymax>290</ymax></bndbox></object></annotation>

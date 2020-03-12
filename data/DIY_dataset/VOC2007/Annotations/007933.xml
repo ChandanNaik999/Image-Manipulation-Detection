@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007933.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>331971083</flickrid>
+	</source>
+	<owner>
+		<flickrid>lilfunky1</flickrid>
+		<name>Angela Poon</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>109</xmin><ymin>233</ymin><xmax>158</xmax><ymax>288</ymax></bndbox></object></annotation>

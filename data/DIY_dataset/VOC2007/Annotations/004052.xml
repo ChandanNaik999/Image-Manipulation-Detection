@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004052.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>191587387</flickrid>
+	</source>
+	<owner>
+		<flickrid>Wannabe Surfer</flickrid>
+		<name>Lee Matthews</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>412</xmin><ymin>95</ymin><xmax>485</xmax><ymax>207</ymax></bndbox></object></annotation>

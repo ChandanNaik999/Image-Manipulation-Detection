@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008359.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>52960023</flickrid>
+	</source>
+	<owner>
+		<flickrid>jwinfred</flickrid>
+		<name>Jimmy Smith</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>185</xmin><ymin>44</ymin><xmax>334</xmax><ymax>346</ymax></bndbox></object></annotation>

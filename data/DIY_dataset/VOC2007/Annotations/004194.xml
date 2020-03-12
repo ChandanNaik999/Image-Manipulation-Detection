@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004194.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339305683</flickrid>
+	</source>
+	<owner>
+		<flickrid>protohiro</flickrid>
+		<name>Stephen Woods</name>
+	</owner>
+	<size>
+		<width>455</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>3</xmin><ymin>62</ymin><xmax>139</xmax><ymax>221</ymax></bndbox></object></annotation>

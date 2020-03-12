@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006551.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>234309241</flickrid>
+	</source>
+	<owner>
+		<flickrid>Christian Kubek</flickrid>
+		<name>Christian Kubek</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>172</xmin><ymin>176</ymin><xmax>388</xmax><ymax>294</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003671.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338671633</flickrid>
+	</source>
+	<owner>
+		<flickrid>tech1987</flickrid>
+		<name>Joe Miklich</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>78</xmin><ymin>115</ymin><xmax>176</xmax><ymax>241</ymax></bndbox></object></annotation>

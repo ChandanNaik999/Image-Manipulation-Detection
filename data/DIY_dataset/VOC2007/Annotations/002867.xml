@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002867.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>326194961</flickrid>
+	</source>
+	<owner>
+		<flickrid>fieldsongs</flickrid>
+		<name>Serena + Aldo</name>
+	</owner>
+	<size>
+		<width>374</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>9</xmin><ymin>37</ymin><xmax>105</xmax><ymax>326</ymax></bndbox></object></annotation>

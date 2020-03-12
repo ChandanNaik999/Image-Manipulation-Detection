@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009577.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>323979889</flickrid>
+	</source>
+	<owner>
+		<flickrid>Snakelady</flickrid>
+		<name>Sheila Malone</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>10</xmin><ymin>130</ymin><xmax>259</xmax><ymax>324</ymax></bndbox></object></annotation>

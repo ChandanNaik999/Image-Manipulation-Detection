@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008815.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>279877440</flickrid>
+	</source>
+	<owner>
+		<flickrid>Mary Nevtrav</flickrid>
+		<name>Mary Davidson</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>311</xmin><ymin>258</ymin><xmax>348</xmax><ymax>366</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002036.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>316553125</flickrid>
+	</source>
+	<owner>
+		<flickrid>Chris&amp;AmyCate</flickrid>
+		<name>Christopher Esposito</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>291</xmin><ymin>45</ymin><xmax>351</xmax><ymax>87</ymax></bndbox></object></annotation>

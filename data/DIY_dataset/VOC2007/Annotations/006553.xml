@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006553.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337108741</flickrid>
+	</source>
+	<owner>
+		<flickrid>Walkabout Wolf</flickrid>
+		<name>Rob A. Johnston</name>
+	</owner>
+	<size>
+		<width>366</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>188</xmin><ymin>4</ymin><xmax>301</xmax><ymax>285</ymax></bndbox></object></annotation>

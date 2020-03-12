@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009166.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337629702</flickrid>
+	</source>
+	<owner>
+		<flickrid>Invisionary Photos</flickrid>
+		<name>Francis Patrick</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>92</xmin><ymin>33</ymin><xmax>172</xmax><ymax>80</ymax></bndbox></object></annotation>

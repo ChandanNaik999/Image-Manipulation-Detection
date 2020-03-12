@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001898.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339227414</flickrid>
+	</source>
+	<owner>
+		<flickrid>princess_rush</flickrid>
+		<name>Rush Smith</name>
+	</owner>
+	<size>
+		<width>374</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>99</xmin><ymin>184</ymin><xmax>144</xmax><ymax>281</ymax></bndbox></object></annotation>

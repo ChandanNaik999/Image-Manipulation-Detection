@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006940.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>276339852</flickrid>
+	</source>
+	<owner>
+		<flickrid>jamble</flickrid>
+		<name>James Young</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>441</xmin><ymin>66</ymin><xmax>492</xmax><ymax>204</ymax></bndbox></object></annotation>

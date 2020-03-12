@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008564.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>308820423</flickrid>
+	</source>
+	<owner>
+		<flickrid>emptysquare</flickrid>
+		<name>A. Jesse Jiryu Davis</name>
+	</owner>
+	<size>
+		<width>437</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>158</xmin><ymin>71</ymin><xmax>436</xmax><ymax>199</ymax></bndbox></object></annotation>

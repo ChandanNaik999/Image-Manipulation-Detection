@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002368.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>336345141</flickrid>
+	</source>
+	<owner>
+		<flickrid>theoreticalgirl</flickrid>
+		<name>Maria Tessa Sciarrino</name>
+	</owner>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>231</xmin><ymin>193</ymin><xmax>294</xmax><ymax>288</ymax></bndbox></object></annotation>

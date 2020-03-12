@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007369.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>332661166</flickrid>
+	</source>
+	<owner>
+		<flickrid>Skinny Epicurean</flickrid>
+		<name>skinny epicurean</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>302</xmin><ymin>40</ymin><xmax>484</xmax><ymax>80</ymax></bndbox></object></annotation>

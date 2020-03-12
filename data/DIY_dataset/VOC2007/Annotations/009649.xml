@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009649.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>333047137</flickrid>
+	</source>
+	<owner>
+		<flickrid>davosmith</flickrid>
+		<name>David (Davo) Smith</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>215</xmin><ymin>52</ymin><xmax>245</xmax><ymax>85</ymax></bndbox></object></annotation>

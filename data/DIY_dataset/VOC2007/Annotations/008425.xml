@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008425.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>335380420</flickrid>
+	</source>
+	<owner>
+		<flickrid>This Is Ironic</flickrid>
+		<name>Emilie Martin</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>339</xmin><ymin>76</ymin><xmax>417</xmax><ymax>183</ymax></bndbox></object></annotation>

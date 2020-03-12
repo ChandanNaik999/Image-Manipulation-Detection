@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009279.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>136151618</flickrid>
+	</source>
+	<owner>
+		<flickrid>Angel's Lens</flickrid>
+		<name>Lindley Ashline</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>302</xmin><ymin>159</ymin><xmax>350</xmax><ymax>329</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005457.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>296324736</flickrid>
+	</source>
+	<owner>
+		<flickrid>Ride Industries</flickrid>
+		<name>Ride Industries</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>346</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>64</xmin><ymin>124</ymin><xmax>96</xmax><ymax>275</ymax></bndbox></object></annotation>

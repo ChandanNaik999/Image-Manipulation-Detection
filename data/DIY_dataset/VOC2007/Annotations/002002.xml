@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002002.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>329709432</flickrid>
+	</source>
+	<owner>
+		<flickrid>smhfour</flickrid>
+		<name>Zen Master Steve</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>321</xmin><ymin>149</ymin><xmax>471</xmax><ymax>323</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008062.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>329401005</flickrid>
+	</source>
+	<owner>
+		<flickrid>wildhastings</flickrid>
+		<name>Andy Phillips</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>415</xmin><ymin>35</ymin><xmax>478</xmax><ymax>125</ymax></bndbox></object></annotation>

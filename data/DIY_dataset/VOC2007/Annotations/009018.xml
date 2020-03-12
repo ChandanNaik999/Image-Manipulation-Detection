@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009018.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>34287432</flickrid>
+	</source>
+	<owner>
+		<flickrid>Sleepless in Somerset</flickrid>
+		<name>Mark Ferbert</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>88</xmin><ymin>112</ymin><xmax>420</xmax><ymax>239</ymax></bndbox></object></annotation>

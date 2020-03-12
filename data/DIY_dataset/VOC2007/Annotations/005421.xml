@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005421.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>333324644</flickrid>
+	</source>
+	<owner>
+		<flickrid>nanadebmomstretch</flickrid>
+		<name>Deb</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>357</xmin><ymin>248</ymin><xmax>451</xmax><ymax>318</ymax></bndbox></object></annotation>

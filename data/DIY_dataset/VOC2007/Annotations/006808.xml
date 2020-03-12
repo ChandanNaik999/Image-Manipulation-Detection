@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006808.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337320399</flickrid>
+	</source>
+	<owner>
+		<flickrid>Chow Yun-Slim</flickrid>
+		<name>Chow Yun-Slim</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>182</xmin><ymin>40</ymin><xmax>348</xmax><ymax>256</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005794.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>320451818</flickrid>
+	</source>
+	<owner>
+		<flickrid>ClintRiter</flickrid>
+		<name>Glenn Harris</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>176</xmin><ymin>34</ymin><xmax>288</xmax><ymax>149</ymax></bndbox></object></annotation>

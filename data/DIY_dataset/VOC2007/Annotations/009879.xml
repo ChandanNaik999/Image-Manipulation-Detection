@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009879.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>322815792</flickrid>
+	</source>
+	<owner>
+		<flickrid>lynx81</flickrid>
+		<name>Paul Filmer</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>244</xmin><ymin>42</ymin><xmax>389</xmax><ymax>178</ymax></bndbox></object></annotation>

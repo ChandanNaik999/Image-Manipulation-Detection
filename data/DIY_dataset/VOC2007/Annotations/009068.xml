@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009068.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338019199</flickrid>
+	</source>
+	<owner>
+		<flickrid>vaneza</flickrid>
+		<name>Vaneza Gonsalves</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>186</xmin><ymin>93</ymin><xmax>233</xmax><ymax>215</ymax></bndbox></object></annotation>

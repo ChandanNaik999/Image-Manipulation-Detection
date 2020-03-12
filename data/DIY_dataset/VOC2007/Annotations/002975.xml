@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002975.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>279599767</flickrid>
+	</source>
+	<owner>
+		<flickrid>BOB WESTON</flickrid>
+		<name>robert e weston jr</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>274</xmin><ymin>202</ymin><xmax>384</xmax><ymax>234</ymax></bndbox></object></annotation>

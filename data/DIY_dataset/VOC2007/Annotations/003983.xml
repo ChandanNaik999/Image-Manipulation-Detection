@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003983.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>331163165</flickrid>
+	</source>
+	<owner>
+		<flickrid>Findo</flickrid>
+		<name>Andrew and Peta Finden</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>210</xmin><ymin>118</ymin><xmax>352</xmax><ymax>308</ymax></bndbox></object></annotation>

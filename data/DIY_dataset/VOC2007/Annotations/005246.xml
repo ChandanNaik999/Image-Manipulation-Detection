@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005246.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>30769113</flickrid>
+	</source>
+	<owner>
+		<flickrid>sudama</flickrid>
+		<name>Adam Rice</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>387</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>255</xmin><ymin>85</ymin><xmax>438</xmax><ymax>314</ymax></bndbox></object></annotation>

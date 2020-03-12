@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009546.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>341025457</flickrid>
+	</source>
+	<owner>
+		<flickrid>eliwaite</flickrid>
+		<name>Eli Waite</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>191</xmin><ymin>236</ymin><xmax>351</xmax><ymax>388</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004520.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339188907</flickrid>
+	</source>
+	<owner>
+		<flickrid>Rick Russo</flickrid>
+		<name>Rick Russo</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>303</xmin><ymin>155</ymin><xmax>423</xmax><ymax>328</ymax></bndbox></object></annotation>

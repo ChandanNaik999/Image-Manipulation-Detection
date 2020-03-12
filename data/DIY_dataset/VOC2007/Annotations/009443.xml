@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009443.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>293140120</flickrid>
+	</source>
+	<owner>
+		<flickrid>Happy Harry Halibut New Year to all!</flickrid>
+		<name>'arry le fl?tan</name>
+	</owner>
+	<size>
+		<width>367</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>114</xmin><ymin>74</ymin><xmax>158</xmax><ymax>258</ymax></bndbox></object></annotation>

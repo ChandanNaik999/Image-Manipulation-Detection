@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006476.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>300070303</flickrid>
+	</source>
+	<owner>
+		<flickrid>moxie mojo</flickrid>
+		<name>Kristina/Krissi/Kris (you choose)</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>277</xmin><ymin>134</ymin><xmax>494</xmax><ymax>226</ymax></bndbox></object></annotation>

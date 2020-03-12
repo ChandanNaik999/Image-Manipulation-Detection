@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008923.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>127676389</flickrid>
+	</source>
+	<owner>
+		<flickrid>Turbo Tomato</flickrid>
+		<name>Paul</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>209</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>35</xmin><ymin>56</ymin><xmax>55</xmax><ymax>103</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004770.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>285522207</flickrid>
+	</source>
+	<owner>
+		<flickrid>Andy Maluche</flickrid>
+		<name>Andy Maluche</name>
+	</owner>
+	<size>
+		<width>335</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>131</xmin><ymin>223</ymin><xmax>232</xmax><ymax>278</ymax></bndbox></object></annotation>

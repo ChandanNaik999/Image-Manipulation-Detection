@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008727.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>291495815</flickrid>
+	</source>
+	<owner>
+		<flickrid>Robbie Coffey</flickrid>
+		<name>Robert Coffey</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>175</xmin><ymin>162</ymin><xmax>235</xmax><ymax>331</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008581.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>308711756</flickrid>
+	</source>
+	<owner>
+		<flickrid>MrGiles</flickrid>
+		<name>Giles Moss</name>
+	</owner>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>230</xmin><ymin>217</ymin><xmax>295</xmax><ymax>259</ymax></bndbox></object></annotation>

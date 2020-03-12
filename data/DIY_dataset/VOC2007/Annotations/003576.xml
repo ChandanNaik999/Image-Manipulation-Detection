@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003576.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>326359694</flickrid>
+	</source>
+	<owner>
+		<flickrid>kahunapulej</flickrid>
+		<name>Kahunapule Michael Johnson</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>265</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>377</xmin><ymin>7</ymin><xmax>402</xmax><ymax>47</ymax></bndbox></object></annotation>

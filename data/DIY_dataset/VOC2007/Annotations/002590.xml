@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002590.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338207762</flickrid>
+	</source>
+	<owner>
+		<flickrid>plateaukao</flickrid>
+		<name>Daniel Kao</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>10</xmin><ymin>186</ymin><xmax>357</xmax><ymax>321</ymax></bndbox></object></annotation>

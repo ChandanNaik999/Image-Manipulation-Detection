@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003711.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>252754381</flickrid>
+	</source>
+	<owner>
+		<flickrid>didbygraham</flickrid>
+		<name>Graham Richardson</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>34</xmin><ymin>99</ymin><xmax>160</xmax><ymax>255</ymax></bndbox></object></annotation>

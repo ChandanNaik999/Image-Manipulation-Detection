@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005903.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>318484525</flickrid>
+	</source>
+	<owner>
+		<flickrid>Jim Pritchett</flickrid>
+		<name>Jim Pritchett</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>71</xmin><ymin>155</ymin><xmax>153</xmax><ymax>305</ymax></bndbox></object></annotation>

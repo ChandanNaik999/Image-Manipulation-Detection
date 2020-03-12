@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004997.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>292247024</flickrid>
+	</source>
+	<owner>
+		<flickrid>foka_kytutr</flickrid>
+		<name>Marek Pa?ach-Rydzy</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>171</xmin><ymin>159</ymin><xmax>378</xmax><ymax>284</ymax></bndbox></object></annotation>

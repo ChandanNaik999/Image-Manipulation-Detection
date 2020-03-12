@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007537.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>318268801</flickrid>
+	</source>
+	<owner>
+		<flickrid>ashi</flickrid>
+		<name>Ashi Fachler</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>355</xmin><ymin>55</ymin><xmax>440</xmax><ymax>183</ymax></bndbox></object></annotation>

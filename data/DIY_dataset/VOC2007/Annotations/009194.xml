@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009194.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>164786720</flickrid>
+	</source>
+	<owner>
+		<flickrid>Fluoride's memories</flickrid>
+		<name>Fluoride</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>184</xmin><ymin>237</ymin><xmax>342</xmax><ymax>306</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003085.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>151575647</flickrid>
+	</source>
+	<owner>
+		<flickrid>galtreuter</flickrid>
+		<name>Gregory Altreuter</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>55</xmin><ymin>88</ymin><xmax>86</xmax><ymax>248</ymax></bndbox></object></annotation>

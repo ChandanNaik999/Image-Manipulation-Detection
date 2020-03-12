@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004848.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339804354</flickrid>
+	</source>
+	<owner>
+		<flickrid>limekilnwhalewatcher</flickrid>
+		<name>Sandy Friday Harbor, WA</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>210</xmin><ymin>312</ymin><xmax>443</xmax><ymax>439</ymax></bndbox></object></annotation>

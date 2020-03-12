@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006619.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>196525993</flickrid>
+	</source>
+	<owner>
+		<flickrid>Web Monkey</flickrid>
+		<name>James Cohen</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>150</xmin><ymin>135</ymin><xmax>183</xmax><ymax>254</ymax></bndbox></object></annotation>

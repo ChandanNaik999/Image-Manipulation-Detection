@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006176.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>326141799</flickrid>
+	</source>
+	<owner>
+		<flickrid>Lila In Wonderland</flickrid>
+		<name>Lila ?</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>339</xmin><ymin>251</ymin><xmax>449</xmax><ymax>338</ymax></bndbox></object></annotation>

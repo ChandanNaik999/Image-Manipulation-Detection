@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006447.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>301887358</flickrid>
+	</source>
+	<owner>
+		<flickrid>toronto2girlsinlove</flickrid>
+		<name>Stacey &amp; Angele</name>
+	</owner>
+	<size>
+		<width>310</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>35</xmin><ymin>60</ymin><xmax>139</xmax><ymax>226</ymax></bndbox></object></annotation>

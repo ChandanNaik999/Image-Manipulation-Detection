@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005111.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>336392860</flickrid>
+	</source>
+	<owner>
+		<flickrid>David Guimar?es</flickrid>
+		<name>David Guimar?es</name>
+	</owner>
+	<size>
+		<width>367</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>279</xmin><ymin>101</ymin><xmax>330</xmax><ymax>239</ymax></bndbox></object></annotation>

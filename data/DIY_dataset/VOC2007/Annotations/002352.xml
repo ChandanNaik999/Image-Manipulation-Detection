@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002352.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>307962275</flickrid>
+	</source>
+	<owner>
+		<flickrid>Elsie esq.</flickrid>
+		<name>Les Chatfield</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>38</xmin><ymin>92</ymin><xmax>98</xmax><ymax>122</ymax></bndbox></object></annotation>

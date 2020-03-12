@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008067.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>331497099</flickrid>
+	</source>
+	<owner>
+		<flickrid>whtdragon_89</flickrid>
+		<name>John-Charles Gray</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>205</xmin><ymin>269</ymin><xmax>320</xmax><ymax>370</ymax></bndbox></object></annotation>

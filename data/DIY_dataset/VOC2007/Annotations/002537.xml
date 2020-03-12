@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002537.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>301636631</flickrid>
+	</source>
+	<owner>
+		<flickrid>Nala Neko</flickrid>
+		<name>Sarah Crothers</name>
+	</owner>
+	<size>
+		<width>458</width>
+		<height>391</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>51</xmin><ymin>59</ymin><xmax>137</xmax><ymax>281</ymax></bndbox></object></annotation>

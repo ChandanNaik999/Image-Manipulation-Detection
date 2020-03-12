@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005146.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>237242323</flickrid>
+	</source>
+	<owner>
+		<flickrid>WildTexas</flickrid>
+		<name>Shannon Moore</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>211</xmin><ymin>93</ymin><xmax>361</xmax><ymax>214</ymax></bndbox></object></annotation>

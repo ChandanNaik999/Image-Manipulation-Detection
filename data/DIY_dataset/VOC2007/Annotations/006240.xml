@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006240.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>336708114</flickrid>
+	</source>
+	<owner>
+		<flickrid>jimstonjournal</flickrid>
+		<name>Andrew O'Hara</name>
+	</owner>
+	<size>
+		<width>351</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>81</xmin><ymin>37</ymin><xmax>275</xmax><ymax>225</ymax></bndbox></object></annotation>

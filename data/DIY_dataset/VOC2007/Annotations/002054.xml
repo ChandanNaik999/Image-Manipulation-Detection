@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002054.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>301176067</flickrid>
+	</source>
+	<owner>
+		<flickrid>Stephen Rees</flickrid>
+		<name>Stephen Rees</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>295</xmin><ymin>26</ymin><xmax>311</xmax><ymax>97</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008752.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>305506537</flickrid>
+	</source>
+	<owner>
+		<flickrid>b56n22</flickrid>
+		<name>Yue_Zai_Tian</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>94</xmin><ymin>180</ymin><xmax>336</xmax><ymax>252</ymax></bndbox></object></annotation>

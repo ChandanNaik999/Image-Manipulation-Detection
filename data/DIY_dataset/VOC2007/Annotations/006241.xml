@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006241.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>335610411</flickrid>
+	</source>
+	<owner>
+		<flickrid>WahWahbar</flickrid>
+		<name>Britt Stromberg</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>57</xmin><ymin>107</ymin><xmax>114</xmax><ymax>261</ymax></bndbox></object></annotation>

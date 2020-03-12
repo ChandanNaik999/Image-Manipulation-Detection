@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002257.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>306655321</flickrid>
+	</source>
+	<owner>
+		<flickrid>Hello, I am Bruce</flickrid>
+		<name>Bruce McAdam</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>256</xmin><ymin>87</ymin><xmax>499</xmax><ymax>258</ymax></bndbox></object></annotation>

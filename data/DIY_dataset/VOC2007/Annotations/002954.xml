@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002954.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>327274182</flickrid>
+	</source>
+	<owner>
+		<flickrid>deadgirl1121</flickrid>
+		<name>Rachel Fracassa</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>241</xmin><ymin>26</ymin><xmax>322</xmax><ymax>69</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003946.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339872198</flickrid>
+	</source>
+	<owner>
+		<flickrid>kaedie_j</flickrid>
+		<name>June Partridge</name>
+	</owner>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>56</xmin><ymin>41</ymin><xmax>298</xmax><ymax>113</ymax></bndbox></object></annotation>

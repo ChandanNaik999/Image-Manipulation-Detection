@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002941.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>335588488</flickrid>
+	</source>
+	<owner>
+		<flickrid>In my life, I love you more</flickrid>
+		<name>Enrico Maria Porro</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>64</xmin><ymin>72</ymin><xmax>161</xmax><ymax>188</ymax></bndbox></object></annotation>

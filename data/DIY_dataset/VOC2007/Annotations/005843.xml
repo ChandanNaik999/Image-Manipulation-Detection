@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005843.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>323492822</flickrid>
+	</source>
+	<owner>
+		<flickrid>johnofallfaith</flickrid>
+		<name>John of AllFaith</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>123</xmin><ymin>179</ymin><xmax>220</xmax><ymax>311</ymax></bndbox></object></annotation>

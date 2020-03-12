@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002042.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>293080844</flickrid>
+	</source>
+	<owner>
+		<flickrid>saddlechariot</flickrid>
+		<name>?</name>
+	</owner>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>413</xmin><ymin>138</ymin><xmax>478</xmax><ymax>279</ymax></bndbox></object></annotation>

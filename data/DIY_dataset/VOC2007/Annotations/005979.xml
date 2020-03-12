@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005979.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>283068470</flickrid>
+	</source>
+	<owner>
+		<flickrid>Mad Fresh</flickrid>
+		<name>Brad Fox</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>351</xmin><ymin>59</ymin><xmax>420</xmax><ymax>113</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007694.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338590752</flickrid>
+	</source>
+	<owner>
+		<flickrid>SoyJames</flickrid>
+		<name>James &amp; Family</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>94</xmin><ymin>105</ymin><xmax>286</xmax><ymax>339</ymax></bndbox></object></annotation>

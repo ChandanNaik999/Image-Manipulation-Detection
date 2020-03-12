@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>008644.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337693906</flickrid>
+	</source>
+	<owner>
+		<flickrid>roulo</flickrid>
+		<name>Claudette Roulo</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>213</xmin><ymin>63</ymin><xmax>384</xmax><ymax>155</ymax></bndbox></object></annotation>

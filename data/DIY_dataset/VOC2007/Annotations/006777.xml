@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006777.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>184620032</flickrid>
+	</source>
+	<owner>
+		<flickrid>Miss Aniela</flickrid>
+		<name>N. A. Dybisz</name>
+	</owner>
+	<size>
+		<width>352</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>228</xmin><ymin>111</ymin><xmax>248</xmax><ymax>173</ymax></bndbox></object></annotation>

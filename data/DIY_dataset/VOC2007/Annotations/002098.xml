@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002098.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337219125</flickrid>
+	</source>
+	<owner>
+		<flickrid>Nienke in OZ &amp; JP</flickrid>
+		<name>Nienke Krook</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>137</xmin><ymin>150</ymin><xmax>284</xmax><ymax>250</ymax></bndbox></object></annotation>

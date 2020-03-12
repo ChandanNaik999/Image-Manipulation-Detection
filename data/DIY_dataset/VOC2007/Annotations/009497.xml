@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009497.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337685767</flickrid>
+	</source>
+	<owner>
+		<flickrid>bigkgbguy</flickrid>
+		<name>Andrey Zakharenko</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>278</xmin><ymin>108</ymin><xmax>360</xmax><ymax>307</ymax></bndbox></object></annotation>

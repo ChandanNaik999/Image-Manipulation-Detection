@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006560.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>334318009</flickrid>
+	</source>
+	<owner>
+		<flickrid>dr_XeNo</flickrid>
+		<name>Ward Kadel</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>12</xmin><ymin>261</ymin><xmax>453</xmax><ymax>327</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006664.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>200827770</flickrid>
+	</source>
+	<owner>
+		<flickrid>bikeride</flickrid>
+		<name>Brent Soderberg</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>325</xmin><ymin>191</ymin><xmax>371</xmax><ymax>369</ymax></bndbox></object></annotation>

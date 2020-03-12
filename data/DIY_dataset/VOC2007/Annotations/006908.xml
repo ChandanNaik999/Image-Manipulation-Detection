@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>006908.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>333253223</flickrid>
+	</source>
+	<owner>
+		<flickrid>Hayzie</flickrid>
+		<name>Warwick Hays</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>293</xmin><ymin>43</ymin><xmax>370</xmax><ymax>232</ymax></bndbox></object></annotation>

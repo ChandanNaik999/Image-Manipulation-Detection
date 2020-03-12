@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005263.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>303956555</flickrid>
+	</source>
+	<owner>
+		<flickrid>labels_30</flickrid>
+		<name>Sylvia Labelle</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>223</xmin><ymin>179</ymin><xmax>445</xmax><ymax>249</ymax></bndbox></object></annotation>

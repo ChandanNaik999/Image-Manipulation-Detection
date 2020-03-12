@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004275.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>300808930</flickrid>
+	</source>
+	<owner>
+		<flickrid>Akio-Sama</flickrid>
+		<name>tarma</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>56</xmin><ymin>375</ymin><xmax>171</xmax><ymax>493</ymax></bndbox></object></annotation>

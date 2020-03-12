@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007956.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>335134471</flickrid>
+	</source>
+	<owner>
+		<flickrid>norselordspanishlady</flickrid>
+		<name>Nathan and Aimee Rose Formo</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>135</xmin><ymin>110</ymin><xmax>295</xmax><ymax>368</ymax></bndbox></object></annotation>

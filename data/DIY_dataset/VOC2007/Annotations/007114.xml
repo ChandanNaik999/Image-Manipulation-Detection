@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007114.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>296686923</flickrid>
+	</source>
+	<owner>
+		<flickrid>?hris</flickrid>
+		<name>Christopher Howarth</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>69</xmin><ymin>84</ymin><xmax>131</xmax><ymax>100</ymax></bndbox></object></annotation>

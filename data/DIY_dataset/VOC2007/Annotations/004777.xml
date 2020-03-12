@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>004777.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>139394087</flickrid>
+	</source>
+	<owner>
+		<flickrid>Angela.</flickrid>
+		<name>TRIPPYswell.com spacegirl.org</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>3</xmin><ymin>178</ymin><xmax>78</xmax><ymax>301</ymax></bndbox></object></annotation>

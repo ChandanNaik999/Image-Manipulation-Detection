@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007886.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337900112</flickrid>
+	</source>
+	<owner>
+		<flickrid>loridz</flickrid>
+		<name>Lori Haskell</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>466</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>434</xmin><ymin>197</ymin><xmax>491</xmax><ymax>238</ymax></bndbox></object></annotation>

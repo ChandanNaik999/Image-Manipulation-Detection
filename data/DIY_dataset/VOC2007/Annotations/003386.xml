@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003386.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>340326288</flickrid>
+	</source>
+	<owner>
+		<flickrid>idiomic</flickrid>
+		<name>kelsey stewart parker</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>242</xmin><ymin>8</ymin><xmax>462</xmax><ymax>193</ymax></bndbox></object></annotation>

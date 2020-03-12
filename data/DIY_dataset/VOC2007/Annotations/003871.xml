@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003871.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>275746232</flickrid>
+	</source>
+	<owner>
+		<flickrid>Fl?vio Cruvinel Brand?o</flickrid>
+		<name>Fl?vio Cruvinel Brand?o</name>
+	</owner>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>50</xmin><ymin>71</ymin><xmax>156</xmax><ymax>324</ymax></bndbox></object></annotation>

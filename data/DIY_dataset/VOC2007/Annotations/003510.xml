@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003510.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>330037087</flickrid>
+	</source>
+	<owner>
+		<flickrid>.:kemal:.</flickrid>
+		<name>KEMAL YAYLALI</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>153</xmin><ymin>231</ymin><xmax>291</xmax><ymax>372</ymax></bndbox></object></annotation>

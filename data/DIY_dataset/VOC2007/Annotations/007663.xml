@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007663.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>312755183</flickrid>
+	</source>
+	<owner>
+		<flickrid>taminator</flickrid>
+		<name>Dixon Tam</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>207</xmin><ymin>104</ymin><xmax>270</xmax><ymax>225</ymax></bndbox></object></annotation>

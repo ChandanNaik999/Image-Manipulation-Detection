@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>009686.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>53297726</flickrid>
+	</source>
+	<owner>
+		<flickrid>billyverde</flickrid>
+		<name>Billy Hawes</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>207</xmin><ymin>67</ymin><xmax>289</xmax><ymax>217</ymax></bndbox></object></annotation>

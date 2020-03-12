@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005478.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339622845</flickrid>
+	</source>
+	<owner>
+		<flickrid>dukematthew2000</flickrid>
+		<name>Matt Moore</name>
+	</owner>
+	<size>
+		<width>376</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>19</xmin><ymin>179</ymin><xmax>299</xmax><ymax>339</ymax></bndbox></object></annotation>
